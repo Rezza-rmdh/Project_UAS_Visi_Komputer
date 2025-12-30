@@ -1,0 +1,12 @@
+path: D:\Kuliah\Semester5\Viskom\UAS\Kuliah\dataset
+train: train/images
+val: valid/images
+test: test/images
+nc: 6
+names:
+- car
+- threewheel
+- bus
+- truck
+- motorbike
+- van
